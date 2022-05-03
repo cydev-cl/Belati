@@ -10,7 +10,7 @@ colorama
 validators==0.12.3
 tqdm
 tldextract
-fake-useragent
+fake-useragent==0.1.8
 python-wappalyzer
 future
 beautifulsoup4
